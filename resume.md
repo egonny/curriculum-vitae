@@ -4,7 +4,7 @@ Software Engineer
 
 - San Francisco, CA
 - <richard.hendriks@mail.com>
-- +32 470 12 34 56
+- %phonenr%
 <!-- - [richardhendricks.example.com](http://richardhendricks.example.com) -->
 
 CEO and Software Engineer with knowledge of applied information theory,
