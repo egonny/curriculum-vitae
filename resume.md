@@ -1,19 +1,15 @@
-# Richard Hendricks {.header}
+# Egon Okerman {.header}
+Research Software Engineer
 
-Software Engineer
-
-- San Francisco, CA
-- <richard.hendriks@mail.com>
+- Leuven, Belgium
+- <cv@egon.dev>
 - %phonenr%
-<!-- - [richardhendricks.example.com](http://richardhendricks.example.com) -->
 
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
+There will be a summary here
 
 ## Work Experience
-### [Pied Piper](https://stripe.com)
-#### <span>CEO/President</span> <span>Dec 2013 - Current</span>
+### [THEO Technologies](https://www.theoplayer.com/)
+#### <span>Research Software Engineer</span> <span>Oct 2017 - Current</span>
 Pied Piper is a multi-platform technology based on a proprietary universal
 compression algorithm that has consistently fielded high Weisman Scores™ that
 are not merely competitive, but approach the theoretical limit of lossless
@@ -24,31 +20,26 @@ compression.
 - Successfully won Techcrunch Disrupt
 - Optimized an algorithm that holds the current world record for Weisman Scores
 
-### CoderDojo
-#### <span>Teacher</span> <span>July 2013 - Dec 2013</span>
+#### <span>Internship</span> <span>Aug 2016 - Sep 2016</span>
 Global movement of free coding clubs for young people.
 
 - Awarded 'Teacher of the Month'
 
-## Education
-### University of Oklahoma
-#### <span>BA Information Technology</span> <span>2011 - 2014</span>
 
-- GPA 4.0
-- DB1101 - Basic SQL
-- CS2011 - Java Introduction
+#### <span>Internship</span> <span>Aug 2015 - Sep 2015</span>
+Stuff
+
+## Education
+### KU Leuven
+#### <span>M.Eng. - Computer Science</span> <span>2012 - 2017</span>
+Graduated cum laude with a focus on secure software.
 
 ## Projects
-### Miss Direction
-#### Aug 2016
-
-A mapping engine that misguides you:
-
-- Won award at AIHacks 2016
-- Built by all women team of newbie programmers
-- Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
+### [Lorem Ipsec](https://ctftime.org/team/30031)
+#### Jan 2017 - Current
+Description here.
 
 ## Skills
 
 - Web development: HTML, CSS, JavaScript
-- Compression: Mpeg, MP4, GIF
+- More things: Mpeg, MP4, GIF
