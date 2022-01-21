@@ -19,7 +19,7 @@ body * {
 .level1 {
     box-sizing: border-box;
     width: 1030px;
-    height: 1332px;
+    height: 1450px;
     padding: 60px 90px;
     background-color: #fff;
     overflow: hidden;
@@ -69,8 +69,11 @@ h1 {
     line-height: 1.5;
     font-weight: 300;
     font-size: 16px;
-    margin-bottom: 46.5px;
     color: #575b5c;
+}
+
+section.header > section:first-of-type {
+    margin-top: 46.5px;
 }
 
 /* Content */
@@ -82,7 +85,7 @@ h2 {
     font-weight: 600;
     line-height: 1;
     text-transform: uppercase;
-    font-size: 12px;
+    font-size: 14px;
     letter-spacing: 1.2px;
 }
 
@@ -126,7 +129,7 @@ a:hover {
 }
 
 .level2 {
-    margin: 0 0 52.625px;
+    margin: 0 0 40.625px;
     min-width: 0;
 }
 
