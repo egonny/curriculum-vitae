@@ -20,13 +20,22 @@ body * {
     box-sizing: border-box;
     width: 1030px;
     height: 1450px;
-    padding: 60px 90px;
+    padding: 50px 75px;
     background-color: #fff;
     overflow: hidden;
     -webkit-print-color-adjust: exact;
+
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    grid-row-gap: 31.25px;
 }
 
-p {
+.level1 > section {
+    display: block;
+    grid-column: 1 / 3;
+}
+
+p, li {
     margin: 0;
     margin-bottom: 7px;
     font-size: 16px;
@@ -42,23 +51,27 @@ h1 {
     font-size: 28px;
     font-weight: 600;
     letter-spacing: 1.3px;
-    margin-bottom: 23.25px;
 }
 
 /* Contact info */
 .header > ul {
     margin: 0;
-    margin-bottom: 7px;
     padding: 0;
     color: #575b5c;
+
+    justify-self: right;
+    align-self: center;
 }
+
 .header > ul > li {
     display: inline;
     list-style: none;
 }
+
 .header > ul > li:after {
     content: " | ";
 }
+
 .header > ul > li:last-child:after {
     content: "";
 }
@@ -73,12 +86,12 @@ h1 {
 }
 
 section.header > section:first-of-type {
-    margin-top: 46.5px;
+    margin-top: 13px;
 }
 
 /* Content */
 h2 {
-    margin: 0 0 31px;
+    margin: 0 0 13px;
     font-weight: 600;
     line-height: 1;
     color: #A6AAAD;
@@ -87,6 +100,25 @@ h2 {
     text-transform: uppercase;
     font-size: 14px;
     letter-spacing: 1.2px;
+}
+
+h3 > span:not(:first-child), h4 {
+    margin: 0;
+    color: #707678;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 6.75px;
+    text-transform: none;
+    letter-spacing: normal;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+h3 > span:not(:first-child) {
+    margin-bottom: 0px;
+    color: #575b5c;
 }
 
 h3 {
@@ -100,15 +132,6 @@ h3 {
     font-size: 18px;
     letter-spacing: 0.07em;
     margin-bottom: 7.75px;
-}
-
-h4 {
-    margin: 0;
-    color: #707678;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    margin-bottom: 6.75px;
 
     display: flex;
     justify-content: space-between;
@@ -129,7 +152,7 @@ a:hover {
 }
 
 .level2 {
-    margin: 0 0 40.625px;
+    margin: 0;
     min-width: 0;
 }
 
@@ -144,6 +167,6 @@ a:hover {
     padding-left: 0;
 }
 
-.level4 {
+.level4:not(:last-child) {
     margin: 0 0 31.25px;
 }
