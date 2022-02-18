@@ -162,11 +162,14 @@ a:hover {
 }
 
 .level2 ul li {
-    margin-bottom: 6px;
-    margin-left: 30px;
+    margin: 3px 0 3px 30px;
     padding-left: 0;
 }
 
+.level3:not(:last-child) {
+    margin-bottom: 24px;
+}
+
 .level4:not(:last-child) {
-    margin: 0 0 31.25px;
+    margin: 0 0 20px;
 }
