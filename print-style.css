@@ -27,7 +27,7 @@ body * {
 
     display: grid;
     grid-template-columns: auto 1fr auto;
-    grid-row-gap: 31.25px;
+    grid-row-gap: 30px;
 }
 
 .level1 > section {
@@ -167,9 +167,9 @@ a:hover {
 }
 
 .level3:not(:last-child) {
-    margin-bottom: 24px;
+    margin-bottom: 20px;
 }
 
 .level4:not(:last-child) {
-    margin: 0 0 20px;
+    margin: 0 0 16px;
 }
