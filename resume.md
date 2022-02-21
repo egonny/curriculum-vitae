@@ -7,7 +7,7 @@
 ## Work Experience
 ### <span>[THEO Technologies](https://www.theoplayer.com/)</span> <span>Leuven, Belgium</span>
 #### <span>Research Software Engineer</span> <span>Oct 2017 - Current</span>
-[//]: # Rust, TypeScript, node.js, Python, Bitbucket Pipelines, Redis, Docker, Make
+[//]: # "Rust, TypeScript, node.js, Python, Bitbucket Pipelines, Redis, Docker, Make"
 
 - Collaborated on a new video streaming protocol over HTTP/1.1: [High Efficiency Streaming Protocol](https://www.hespalliance.org/) (HESP), which lowered the end-to-end latency of the state-of-the-art in HTTP Adaptive Streaming from 4-6s to 1-2s.
   - Noted as an inventor in four patents with regards to this streaming protocol.
@@ -20,13 +20,13 @@
 - Implemented continuous integration for all formerly mentioned software using **Bitbucket Pipelines** and **CircleCI**.
 
 #### <span>Software Engineer Intern</span> <span>Aug 2016 - Sep 2016</span>
-[//]: # TypeScript, JavaScript, node.js, HTML5, CSS3
+[//]: # "TypeScript, JavaScript, node.js, HTML5, CSS3"
 
 - Implemented MPEG-DASH playback support and a new UI in the THEOplayer Web SDK for the Google Chromecast platform, using **TypeScript**, **JavaScript**, **HTML5** and **CSS3**.
 
 <!--
 #### <span>Software Engineer Intern</span> <span>Jul 2015 - Aug 2015</span>
-[//]: # JavaScript, node.js, Redis
+[//]: # "JavaScript, node.js, Redis"
 
 - Integrated a new payment processor into the THEOplayer management platform using **JavaScript** (**node.js**).
 
