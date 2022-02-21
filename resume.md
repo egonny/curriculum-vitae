@@ -9,7 +9,7 @@
 #### <span>Research Software Engineer</span> <span>Oct 2017 - Current</span>
 [//]: # Rust, TypeScript, node.js, Python, Bitbucket Pipelines, Redis, Docker, Make
 
-- Collaborated to create a new video streaming protocol over HTTP/1.1 (HESP), to lower the end-to-end latency of the state-of-the-art in HTTP Adaptive Streaming from 4-6s to 1-2s.
+- Collaborated on a new video streaming protocol over HTTP/1.1: [High Efficiency Streaming Protocol](https://www.hespalliance.org/) (HESP), which lowered the end-to-end latency of the state-of-the-art in HTTP Adaptive Streaming from 4-6s to 1-2s.
   - Noted as an inventor in four patents with regards to this streaming protocol.
 - Implemented a reference packager for HESP using **TypeScript** (**node.js**), **FFmpeg**, **Redis** and **Docker**.
 - Contributed to the [ILLUMINATE imec.icon research project](https://www.imec-int.com/en/what-we-offer/research-portfolio/illuminate):
