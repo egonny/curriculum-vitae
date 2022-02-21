@@ -57,4 +57,4 @@ Several websites and (Android) apps were reverse engineered to be able to automa
 ## Skills
 **Languages**: Rust, TypeScript, JavaScript, Python, Kotlin
 
-**Technologies**: node.js, Git, Docker, continuous integration (Bitbucket Pipelines), Make, FFmpeg/libavcodec, Ghidra, GDB, JADX, Wireshark, React, Next.js
+**Technologies**: node.js, Git, Docker, CI/CD (Bitbucket Pipelines and CircleCI), Make, FFmpeg/libavcodec, Ghidra, GDB, JADX, Wireshark, React, Next.js
