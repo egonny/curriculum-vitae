@@ -51,7 +51,7 @@ h1 {
 }
 
 /* Contact info */
-.header > ul {
+.level1 > ul {
     margin: 0;
     padding: 0;
     color: rgb(117, 125, 148);
@@ -60,21 +60,21 @@ h1 {
     align-self: center;
 }
 
-.header > ul > li {
+.level1 > ul > li {
     display: inline;
     list-style: none;
 }
 
-.header > ul > li:after {
+.level1 > ul > li:after {
     content: " | ";
 }
 
-.header > ul > li:last-child:after {
+.level1 > ul > li:last-child:after {
     content: "";
 }
 
 /* Summary */
-.header > p:last-of-type {
+.level1 > p:last-of-type {
     margin: 0;
     line-height: 1.5;
     font-weight: 300;
@@ -82,7 +82,7 @@ h1 {
     color: rgb(117, 125, 148);
 }
 
-section.header > section:first-of-type {
+section.level1 > section:first-of-type {
     margin-top: 12px;
 }
 

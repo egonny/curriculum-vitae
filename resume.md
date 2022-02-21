@@ -1,4 +1,4 @@
-# Egon Okerman {.header}
+# Egon Okerman
 
 - Leuven, Belgium
 - <cv@egon.dev>
