@@ -9,11 +9,11 @@
 #### <span>Research Software Engineer</span> <span>Oct 2017 - Current</span>
 [//]: # "Rust, TypeScript, node.js, Python, Bitbucket Pipelines, Redis, Docker, Make"
 
-- Collaborated on a new video streaming protocol over HTTP/1.1: [High Efficiency Streaming Protocol](https://www.hespalliance.org/) (HESP), which lowered the end-to-end latency of the state-of-the-art in HTTP Adaptive Streaming from 4-6s to 1-2s.
+- Collaborated on a new video streaming protocol over HTTP/1.1: [High-Efficiency Streaming Protocol](https://www.hespalliance.org/) (HESP), which lowered the end-to-end latency of the state-of-the-art in HTTP Adaptive Streaming from 4-6s to 1-2s.
   - Noted as an inventor in four patents with regards to this streaming protocol.
-- Implemented a reference packager for HESP using **TypeScript** (**node.js**), **FFmpeg**, **Redis** and **Docker**.
+- Implemented reference software for HESP using **TypeScript** (**node.js**), **FFmpeg**, **Redis** and **Docker**.
 - Contributed to the [ILLUMINATE imec.icon research project](https://www.imec-int.com/en/what-we-offer/research-portfolio/illuminate):
-  - Created and implemented a streaming protocol for efficient playback of 6DOF Light Field Video (through Steered Mixture-of-Experts coding), using **Rust**.
+  - Designed and implemented a streaming protocol for efficient playback of 6DOF Light Field Video (through Steered Mixture-of-Experts coding), using **Rust**.
 - Technical lead on the [Live-G imec.icon research project](https://www.imec-int.com/en/research-portfolio/live-g):
   - Adapted the HESP protocol from unicast delivery to delivery over IP multicast in order to distribute low latency video over 5G using eMBMS, while reducing the bandwidth required to distribute video at scale.
   - Implemented a multicast server and gateway using **Rust**, and an Android video player for multicast using **Kotlin** and **Rust**.
