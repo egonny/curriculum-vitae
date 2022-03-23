@@ -13,7 +13,7 @@
   - Noted as an inventor in four patents with regards to this streaming protocol.
 - Implemented reference software for HESP using **TypeScript** (**node.js**), **FFmpeg**, **Redis** and **Docker**.
 - Contributed to the [ILLUMINATE imec.icon research project](https://www.imec-int.com/en/what-we-offer/research-portfolio/illuminate):
-  - Designed for efficient playback of 6DOF Light Field Video (through Steered Mixture-of-Experts coding) and implemented a demonstrator (backend and playback) for this protocol using **Rust**.
+  - Designed a streaming protocol for efficient playback of 6DOF Light Field Video (through Steered Mixture-of-Experts coding) and implemented a demonstrator (backend and playback) for this protocol using **Rust**.
 - Technical lead on the [Live-G imec.icon research project](https://www.imec-int.com/en/research-portfolio/live-g):
   - Adapted the HESP protocol from unicast delivery to delivery over IP multicast in order to distribute low latency video over 5G using eMBMS, while reducing the bandwidth required to distribute video at scale.
   - Implemented a multicast server and gateway using **Rust**, and an Android video player for multicast using **Kotlin** and **Rust**.
