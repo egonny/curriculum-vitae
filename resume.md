@@ -39,7 +39,7 @@ E. Okerman and J. Vounckx, "Fast Startup Multicast Streaming on Operator IPTV Ne
 ### <span>[Lorem Ipsec](https://ctftime.org/team/30031) - Capture The Flag</span> <span>Jan 2017 - Current</span>
 #### _Python, Ghidra, GDB, JADX, Wireshark, SageMath_
 Captain of a Belgian CTF Team that was ranked top 200 globally and number 1 in Belgium for 2021.
-Experience in cryptography, mobile, web and reverse engineering challenges.
+Experience in cryptography, mobile security, web security and reverse engineering challenges.
 
 
 ### <span>Sneakerbot</span> <span>Sep 2017 - Dec 2020</span>
